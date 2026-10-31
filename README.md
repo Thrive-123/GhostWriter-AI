@@ -25,7 +25,7 @@ GhostWriter AI is a local AI-powered horror story generator that creates unique,
 ## 📸 Screenshots
 
 ### Application Interface
-![GhostWriter AI Interface](screenshots/app-home.png)
+![Application](screenshots/app-home.png)
 
 ### Generated Horror Story
 ![Generated Story](screenshots/generated-story.png)
@@ -35,7 +35,7 @@ GhostWriter AI is a local AI-powered horror story generator that creates unique,
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Thrive-123/GhostWriter-AI.git
 cd GhostWriter-AI
 ```
 
